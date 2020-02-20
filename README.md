@@ -1,5 +1,6 @@
 # JavaScript Loops Classwork
-
+#### Score : 0
+#### You've been doing a great job being engaged in class even tho the pace is a little slow for yout current skill level but you HAVE to keep it up. Hate you give you a zero on this assignment. Hope not to see this again.
 ## For Loops
 
 ### Exercise 1:
